@@ -32,4 +32,11 @@ The commands below are for Ubuntu. You should change the commands if you are usi
 - Install Android Studio, Postman and optionally VSCode by going to their website and following the installation instructions. 
 - Once Android Studio is installed, follow the [Kotlin Setup](https://kotlinlang.org/docs/mobile/setup.html) to finish setting up your IDE. 
 
+## Windows Users 
+
+Unfortunately, if you find yourself reading this you will be dealing with the most troublesome onboarding experiance. 
+- Go to the official [Android Studio site](https://developer.android.com/studio) and click "Download Android Studio". Make sure you are downloading the appropriate version (64 bit or 32 bit) and on your current version of Windows. 
+- You should have downloaded an .exe file. When the .exe file is finished downloading, click on it to start the download process. 
+- Accept all default settings, except if you see a setting for Kotlin. If you do, make sure to enable that setting. 
+- CAREFULLY, follow the instructions on the [Kotlin Setup](https://kotlinlang.org/docs/mobile/setup.html). Since Windows can be unpredictable, if you are having issues feel free to send me (Lucy) a message. 
 
