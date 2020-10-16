@@ -21,4 +21,4 @@ We will follow the industry-standard code styles across all repositories. The be
 - [Javascript](https://github.com/airbnb/javascript)
 - [Python](https://www.python.org/dev/peps/pep-0008/)
   
-Each repo will also have specific instructions to set up the codestyle plugins. Furthermore, eachj function or class should have docstrings explaining explicitly what it does, according to the given standards above. 
+Each repo will also have specific instructions to set up the codestyle plugins. Furthermore, each function or class should have docstrings explaining explicitly what it does, according to the given standards above. 
