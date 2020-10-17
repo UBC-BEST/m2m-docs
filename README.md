@@ -43,7 +43,7 @@ Unfortunately, if you find yourself reading this you will be dealing with the mo
 
 ## Time to choose tasks! 
 
-Go to either the backend repo or the frontend repo and click to issues to browse the tasks that need to be completed. When you find something you want to do make sure to:
-- Assign yourself to the issue
+Go to either the backend repo or the frontend repo and click on issues to see the tasks that need to be completed. When you find something you want to do make sure to:
+- Assign yourself to the issue.
 - Comment on the issue what portions you want to do and if you need help @ the person you want to ask for help. 
 - When you all your changes are approved and you have successfully merged to master, close the issue. 
