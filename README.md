@@ -39,7 +39,8 @@ Unfortunately, if you find yourself reading this you will be dealing with the mo
 - You should have downloaded an .exe file. When the .exe file is finished downloading, click on it to start the download process. 
 - Accept all default settings, except if you see a setting for Kotlin. If you do, make sure to enable that setting. 
 - CAREFULLY, follow the instructions on the [Kotlin Setup](https://kotlinlang.org/docs/mobile/setup.html). Since Windows can be unpredictable, if you are having issues feel free to send me (Lucy) a message. 
-- Next, install VSCode [here](https://code.visualstudio.com/download), making sure to download the appropriate version. Make sure you also have Python and Node.js installed. 
+- Next, install VSCode [here](https://code.visualstudio.com/download), making sure to download the appropriate version. 
+- Make sure you also have [Python](https://www.python.org/downloads/), [Node.js](https://nodejs.org/en/download/), [git](https://git-scm.com/downloads) and [Postman](https://www.postman.com/downloads/) installed. Follow the links and you should be good to go!
 
 ## Time to choose tasks! 
 
