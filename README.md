@@ -41,3 +41,9 @@ Unfortunately, if you find yourself reading this you will be dealing with the mo
 - CAREFULLY, follow the instructions on the [Kotlin Setup](https://kotlinlang.org/docs/mobile/setup.html). Since Windows can be unpredictable, if you are having issues feel free to send me (Lucy) a message. 
 - Next, install VSCode [here](https://code.visualstudio.com/download), making sure to download the appropriate version. Make sure you also have Python and Node.js installed. 
 
+## Time to choose tasks! 
+
+Go to either the backend repo or the frontend repo and click to issues to browse the tasks that need to be completed. When you find something you want to do make sure to:
+- Assign yourself to the issue
+- Comment on the issue what portions you want to do and if you need help @ the person you want to ask for help. 
+- When you all your changes are approved and you have successfully merged to master, close the issue. 
